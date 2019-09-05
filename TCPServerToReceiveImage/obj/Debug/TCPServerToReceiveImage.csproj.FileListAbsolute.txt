@@ -1,0 +1,10 @@
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\bin\Debug\TCPServerToReceiveImage.exe.config
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\bin\Debug\TCPServerToReceiveImage.exe
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\bin\Debug\TCPServerToReceiveImage.pdb
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.csprojAssemblyReference.cache
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.Form1.resources
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.Properties.Resources.resources
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.csproj.GenerateResource.cache
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.csproj.CoreCompileInputs.cache
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.exe
+D:\vsProject\TCPServerToReceiveImage\TCPServerToReceiveImage\obj\Debug\TCPServerToReceiveImage.pdb
